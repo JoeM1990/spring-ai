@@ -18,7 +18,6 @@ For further information go to our [Spring AI reference documentation](https://do
 * [Issues](https://github.com/spring-projects/spring-ai/issues)
 * [Discussions](https://github.com/spring-projects/spring-ai/discussions) - Go here if you have a question, suggestion, or feedback!
 
-
 ## Educational Resources
 
 - Follow the [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop)
